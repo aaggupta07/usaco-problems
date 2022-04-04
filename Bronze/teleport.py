@@ -1,0 +1,5 @@
+with open('teleport.in') as fin: start, end, a, b = list(map(int, fin.readline().strip().split(' ')))
+dist_1 = abs(end - start)
+dist_2 = abs(start - a) + abs(end - b)
+dist_3 = abs(start - b) + abs(end - a)
+print(min(dist_1, dist_2, dist_3), file=open('teleport.out', 'w'))
