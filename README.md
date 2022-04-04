@@ -5,4 +5,4 @@ Most of these are suboptimal solutions, but pass all test cases, or as many as p
 <br>
 
 ### The USA Computing Olympiad
-The USA Computing Olympiad is the most prestigous youth competition, which hosts four contests annually, one every month from December–March. Anyone can participate [here](usaco.org). Top canidates are selected to attend a rigorous summer camp, and the four best represent the U.S. in the International Olympiad in Informatics (IOI).
+The USA Computing Olympiad is the most prestigous youth competition, which hosts four contests annually, one every month from December–March. Anyone can participate [in the competition](usaco.org). Top canidates are selected to attend a rigorous summer camp, and the four best represent the U.S. in the International Olympiad in Informatics (IOI).
