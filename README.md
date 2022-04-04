@@ -1,7 +1,7 @@
 # USACO Problems
 A collection of solutions to problems from the _USA Computing Olympiad_. <br>
 
-Most of these are suboptimal solutions, but pass all test cases, or as many as practically possible in the programming language (many use Python 3, which is generally slow when run on CPython. My newer code is written in C++). <br>
+Most of these are suboptimal solutions, but pass all test cases, or as many as practically possible in the programming language (many use Python 3, which is generally slow when run on CPython. My newer code is written in C++, but I have not pushed it yet). <br>
 <br>
 
 ### The USA Computing Olympiad
